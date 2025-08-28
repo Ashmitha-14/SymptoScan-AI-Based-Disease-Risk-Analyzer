@@ -21,7 +21,7 @@ The app features a **modern, responsive UI** built with **React** and **Tailwind
 
 Built with **React** and **Tailwind CSS**, SymptoScan combines **speed, responsiveness, and a clean UI**—perfect for developers to explore or extend AI-driven healthcare solutions.
 
-![App Demo](https://via.placeholder.com/600x300.png?text=App+Demo+GIF)
+![App Demo]((https://sympto-scan-ai-based-disease-risk-a.vercel.app/))
 
 ---
 
